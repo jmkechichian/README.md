@@ -1,2 +1,21 @@
-# README.md
-Something about me
+<h1 align="center">Hi 👋, I'm Juan</h1>
+<h3 align="center">A passionate Computer scientist from Uruguay</h3>
+
+- 🔭 I’m currently working on **ANTEL**
+
+- 🌱 I’m currently learning **Computer scientist**
+
+- 👨‍💻 All of my projects are available at [https://github.com/jmkechichian](https://github.com/jmkechichian)
+
+- 💬 Ask me about **C++, MySQL, HTML, CSS, Java, PHP**
+
+- 📫 How to reach me **juanpitecnoinfo@gmail.com**
+
+- 📄 Know about my experiences [I am a computer technologist with extensive experience in customer service and driving, in addition to technical knowledge in programming and IT support. I have specialized in technologies such as PHP, MySQL, Java, HTML, PC repair, and 3D printing. Currently, I work at ANTEL, the Uruguayan state-owned telecommunications company, as a member of an overflow team. My work involves deploying the GPON fiber optic network that covers the entire country. This position has allowed me to develop skills in project management, team coordination, and technical problem-solving. In addition to my experience in telecommunications, I have 10 years of experience in customer service in various companies, which has given me a strong ability to meet the needs and expectations of users. Furthermore, my experience as a professional driver has equipped me with skills such as punctuality, safe driving, and the ability to work under pressure. I am seeking new professional challenges where I can apply my skills and technical knowledge while continuing to grow as a professional. If you are interested in learning more about my experience and skills, please feel free to contact me.](I am a computer technologist with extensive experience in customer service and driving, in addition to technical knowledge in programming and IT support. I have specialized in technologies such as PHP, MySQL, Java, HTML, PC repair, and 3D printing. Currently, I work at ANTEL, the Uruguayan state-owned telecommunications company, as a member of an overflow team. My work involves deploying the GPON fiber optic network that covers the entire country. This position has allowed me to develop skills in project management, team coordination, and technical problem-solving. In addition to my experience in telecommunications, I have 10 years of experience in customer service in various companies, which has given me a strong ability to meet the needs and expectations of users. Furthermore, my experience as a professional driver has equipped me with skills such as punctuality, safe driving, and the ability to work under pressure. I am seeking new professional challenges where I can apply my skills and technical knowledge while continuing to grow as a professional. If you are interested in learning more about my experience and skills, please feel free to contact me.)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
